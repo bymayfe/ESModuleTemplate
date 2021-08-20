@@ -4,6 +4,7 @@ Hi, I'm leaving you a little present. **Discord.For JS v13**, I have developed a
 
 # Installation
 Download or import this template, then open a folder called **TXT**, and then open 3 subfolders called **eval - lyrics - TXTSend** into the **TXT** folder. Then type 
+> Note: Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
 ```j
 npm i @latest
 ``` 
@@ -21,7 +22,6 @@ After the installation of the modules is complete, the installation is complete.
 **config.js** token entering the token of the short bot will make the bot work. You can also change the prefix, developer, and owners.
 
 # Support and Help
-> Note: Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
 
 [![M|MayFe](https://cdn.discordapp.com/attachments/817825141051752498/870319476342661200/Layer_5_copy_2.png)](https://discord.com/users/402047297963294730)
 
