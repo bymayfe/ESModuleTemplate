@@ -58,7 +58,7 @@ export default class {
             .setTimestamp()
             if(userPermErrorArry[0]) permErrorEmbed.addField(`User Permissions`, `\`\`\`diff\n${userPermErrorArry.map((p) => `- ${p}`).join("\n")}\`\`\``)
             if(clientPermErrorArry[0]) permErrorEmbed.addField(`Client Permissions`, `\`\`\`diff\n${clientPermErrorArry.map((p) => `- ${p}`).join("\n")}\`\`\``)
-            return message.reply({ embeds: [permErrorEmbed]})
+            return MultiFunction.templateButtonMessage(message.channel.id, { embeds: [permErrorEmbed]})
           }
   
             cmd.execute(MultiFunction);
