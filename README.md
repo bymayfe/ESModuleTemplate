@@ -23,6 +23,6 @@ After the installation of the modules is complete, the installation is complete.
 # Support and Help
 > Note: Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
 
-[![M|MayFe](https://cdn.discordapp.com/attachments/817825141051752498/870319476342661200/Layer_5_copy_2.png)](https://discord.gg/TuRcFwKgux)
+[![M|MayFe](https://cdn.discordapp.com/attachments/817825141051752498/870319476342661200/Layer_5_copy_2.png)](https://discord.com/users/402047297963294730)
 
 https://discord.gg/TuRcFwKgux 🚨 https://discord.gg/vE9ukmKCKH
