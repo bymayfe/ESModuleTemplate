@@ -1,0 +1,33 @@
+{
+  "name": "mayfe-template",
+  "version": "0.1.0",
+  "description": "Gazamız mübarek ola",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "node main.mjs",
+    "start": "node main.mjs",
+    "jsonStart": "node --experimental-json-modules main.mjs # works"
+  },
+  "keywords": [
+    "bymayfe",
+    "mayfe",
+    "discord.js",
+    "V13",
+    "Class",
+    "ES6",
+    "ESModules"
+  ],
+  "author": "ByMayFe",
+  "license": "Apache-2.0",
+  "type": "module",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "quick-ms": "^1.2.5",
+    "quick.db": "^7.1.3"
+  }
+}
