@@ -162,7 +162,4 @@ export default class MultiFunction {
   });
         return kanal.send({...content, components: [...row2]})     
   };
-  
-
-
 }
