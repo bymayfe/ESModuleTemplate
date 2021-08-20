@@ -1,2 +1,28 @@
-# ESModuleTemplate
-JavaScript ESModules ile yapmış olduğum class fonksiyonlu bir Discord.JS V13 altyapısıdır.
+# Welcome to ESModuleTemplate !
+
+Hi, I'm leaving you a little present. **Discord.For JS v13**, I have developed an infrastructure with **class function** and **ESModules(MJS)** that will provide you with complete convenience. I would like to share it. Use it on good days. Stay healthy.
+
+# Installation
+Download or import this template, then open a folder called **TXT**, and then open 3 subfolders called **eval - lyrics - TXTSend** into the **TXT** folder. Then type 
+```j
+npm i @latest
+``` 
+or  (module name)
+```j
+npm i modulename@latest
+``` 
+into the terminal and run it.
+After the installation of the modules is complete, the installation is complete.
+
+- If you get an error downloading the module "quick.db", you can delete the module "quick.db".
+
+## Run Template
+
+**config.js** token entering the token of the short bot will make the bot work. You can also change the prefix, developer, and owners.
+
+# Support and Help
+> Note: Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
+
+[![M|MayFe](https://cdn.discordapp.com/attachments/817825141051752498/870319476342661200/Layer_5_copy_2.png)](https://discord.gg/TuRcFwKgux)
+
+https://discord.gg/TuRcFwKgux 🚨 https://discord.gg/vE9ukmKCKH
