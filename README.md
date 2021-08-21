@@ -1,6 +1,6 @@
 # Welcome to ESModuleTemplate !
 
-Hi, I'm leaving you a little present. **Discord.For JS v13**, I have developed an infrastructure with **class function** and **ESModules(MJS)** that will provide you with complete convenience. I would like to share it. Use it on good days. Stay healthy.
+Hi, I'm leaving you a little present. **Discord.JS fpr v13**, I have developed an infrastructure with **class function** and **ESModules(MJS)** that will provide you with complete convenience. I would like to share it. Use it on good days. Stay healthy.
 
 # Installation
 Download or import this template, then open a folder called **TXT**, and then open 3 subfolders called **eval - lyrics - TXTSend** into the **TXT** folder. Then type 
