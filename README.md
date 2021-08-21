@@ -21,6 +21,10 @@ After the installation of the modules is complete, the installation is complete.
 
 **config.js** token entering the token of the short bot will make the bot work. You can also change the prefix, developer, and owners.
 
+## Apache
+### Apache 2.0 License
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)  
+
 # Support and Help
 
 [![M|MayFe](https://cdn.discordapp.com/attachments/817825141051752498/870319476342661200/Layer_5_copy_2.png)](https://discord.com/users/402047297963294730)
